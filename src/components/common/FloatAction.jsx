@@ -303,10 +303,10 @@
 // //       className="
 // //         // KEY CHANGE: Positioning for fixed middle-right
 // //         fixed right-0 top-1/2 -translate-y-1/2 // Fixes it to the right, and centers it vertically
-        
+
 // //         // Mobile visibility control (optional: hide on large screens if desired, but keeping visible for now)
 // //         // Hidden on small screens to avoid clash with mobile menu, but the logic above handles that
-        
+
 // //         z-[999] // High z-index
 // //         flex flex-col gap-3
 // //         transition-all duration-300 animate-slide-in
@@ -441,7 +441,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Mail, Facebook } from "lucide-react";
+import { Mail, Facebook, Phone } from "lucide-react";
 
 // --- WhatsApp SVG ---
 const WhatsAppIcon = ({ className = "w-6 h-6" }) => (
@@ -471,6 +471,11 @@ const contacts = [
     name: "Facebook",
     href: "https://www.facebook.com/bangashcontainers/",
     icon: <Facebook className="w-6 h-6 text-white" />,
+  },
+  {
+    name: "Call",
+    href: "tel:+923335061973",
+    icon: <Phone className="w-6 h-6 text-white" />,
   },
 ];
 
