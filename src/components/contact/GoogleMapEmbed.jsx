@@ -5,7 +5,7 @@ const GoogleMapEmbed = () => {
     <section className="w-full h-[400px]">
       <iframe
         title="Bangash Containers Location"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3321.464951020142!2d72.9202486!3d33.64511259999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60f5fed18f9450ef%3A0x2ce4ee07aa352407!2sBangash%20Container%20Home!5e0!3m2!1sen!2s!4v1761292913585!5m2!1sen!2s"
+        src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3323.297976699378!2d72.79524607569705!3d33.59757227333156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDM1JzUxLjMiTiA3MsKwNDcnNTIuMiJF!5e0!3m2!1sen!2s!4v1778863067723!5m2!1sen!2s"
         width="100%"
         height="100%"
         allowFullScreen=""

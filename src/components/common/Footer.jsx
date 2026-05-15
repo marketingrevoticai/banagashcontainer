@@ -105,8 +105,7 @@
 //             <p className="flex items-start space-x-2">
 //               <MapPin size={16} />
 //               <span>
-//                Oppo. Toyota Motors Near Chaudhary Ayub Petrolium Tarnol, G14/1, Sirinagar Highway, Islamabad, Pakistan
-
+//                Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
 //               </span>
 //             </p>
 //           </div>
@@ -280,8 +279,7 @@ const Footer = () => {
                 rel="noreferrer"
                 className="hover:text-blue-400"
               >
-                Oppo. Toyota Motors Near Chaudhary Ayub Petrolium Tarnol, G14/1,
-                Sirinagar Highway, Islamabad, Pakistan
+                Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
               </a>
             </p>
           </div>

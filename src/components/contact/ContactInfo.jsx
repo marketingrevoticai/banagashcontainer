@@ -16,7 +16,7 @@ const ContactInfo = () => {
               Head Office
             </h3>
             <p className="text-gray-600">
-              Oppo. Toyota Motors Near Chaudhary Ayub Petrolium Tarnol, G14/1, Sirinagar Highway, Islamabad, Pakistan
+              Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
             </p>
           </div>
 
