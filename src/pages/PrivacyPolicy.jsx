@@ -13,7 +13,7 @@ export default function PrivacyPolicy() {
         {/* Introduction */}
         <p className="text-lg text-gray-700 leading-relaxed mb-8">
           At <strong>Bangash Containers</strong>, located at{" "}
-          <strong>G14/1, Sirinagar Highway, Islamabad</strong>, we are committed
+          <strong>Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad</strong>, we are committed
           to safeguarding your privacy and ensuring the security of your personal
           information. This Privacy Policy explains how we collect, use, and
           protect your data when you visit our website or contact us through our
@@ -130,7 +130,7 @@ export default function PrivacyPolicy() {
           </p>
 
           <p>
-            <strong>Address:</strong> G14/1, Sirinagar Highway, Islamabad
+            <strong>Address:</strong>  Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
           </p>
         </div>
 

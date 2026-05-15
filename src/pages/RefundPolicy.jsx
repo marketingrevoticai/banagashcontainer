@@ -118,7 +118,7 @@ export default function RefundPolicy() {
           </p>
 
           <p>
-            <strong>Address:</strong> G14/1, Sirinagar Highway, Islamabad
+            <strong>Address:</strong> Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
           </p>
         </div>
 
