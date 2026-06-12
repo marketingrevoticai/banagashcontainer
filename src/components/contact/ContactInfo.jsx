@@ -9,16 +9,7 @@ const ContactInfo = () => {
           Get in Touch With Us
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-          <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
-            <MapPin className="mx-auto text-blue-800 w-10 h-10 mb-3" />
-            <h3 className="font-semibold text-xl text-gray-800 mb-2">
-              Head Office
-            </h3>
-            <p className="text-gray-600">
-              Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
-            </p>
-          </div>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
 
           <div className="bg-white p-6 rounded-lg shadow hover:shadow-lg transition">
             <Phone className="mx-auto text-blue-800 w-10 h-10 mb-3" />

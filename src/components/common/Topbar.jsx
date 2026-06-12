@@ -5,11 +5,7 @@ const Topbar = () => {
   return (
     <div className="bg-[#0a1f44] text-white text-sm py-2 px-4 md:px-6 flex flex-col md:flex-row md:justify-between md:items-center space-y-2 md:space-y-0 text-center md:text-left">
 
-      {/* Left Section - Address */}
-      <div className="flex justify-center md:justify-start items-center space-x-2">
-        <MapPin size={14} className="text-white-400" />
-        <p>Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad</p>
-      </div>
+
 
       {/* Middle Section - Social Icons */}
       <div className="flex justify-center space-x-4">

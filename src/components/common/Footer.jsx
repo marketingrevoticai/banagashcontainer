@@ -102,12 +102,7 @@
 //             <p className="flex items-center space-x-2">
 //               <Printer size={16} /> <span>+92 333 5061973</span>
 //             </p>
-//             <p className="flex items-start space-x-2">
-//               <MapPin size={16} />
-//               <span>
-//                Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
-//               </span>
-//             </p>
+
 //           </div>
 //         </div>
 //       </div>
@@ -271,17 +266,7 @@ const Footer = () => {
             <p className="flex items-center space-x-2">
               <Printer size={16} /> <span>+92 333 5061973</span>
             </p>
-            <p className="flex items-start space-x-2">
-              <MapPin size={16} />
-              <a
-                href="https://maps.google.com/?q=Bangash+Container+Islamabad"
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-blue-400"
-              >
-                Between fateh jung sheen park and IPC pakistan, Fateh Jung road, Mangial, Islamabad
-              </a>
-            </p>
+
           </div>
         </div>
       </div>
